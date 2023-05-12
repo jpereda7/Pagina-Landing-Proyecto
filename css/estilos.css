@@ -282,7 +282,7 @@ input[type="submit"]:hover{
     color: #fff;
 }
 
-/* @media screen and (max-width:800px){
+@media screen and (max-width:800px){
     .textos-hero h1{
         text-align: center;
         font-size: 50px;
@@ -299,7 +299,7 @@ input[type="submit"]:hover{
     .info p{
         text-align: center;
     }
-}
+} 
 
 /* Section */
     .website{
@@ -364,4 +364,4 @@ input[type="submit"]:hover{
         width: 97%;
     }
 
-} */
+} 
