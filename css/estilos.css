@@ -176,16 +176,16 @@ body{
     display: flex;
 }
 .galeria-cont{
-    /* width: 100%;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    overflow: hidden; */   
-    display: grid;
+    overflow: hidden;   
+    /* display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(2, 1fr);
     grid-column-gap: 20px;
-    grid-row-gap: 20px;       
+    grid-row-gap: 20px;        */
 }
 
 .galeria-cont>img{
